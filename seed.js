@@ -1,4 +1,3 @@
-
 window.TRUTHS = [
   {lie:"I am alone.", short:"God is with me.", truth:"God Himself promises to be with me; He will never leave me nor forsake me.", ref:"Heb 13:5; Deut 31:6", text:"\"I will never leave you nor forsake you.\" … \"Be strong and courageous… for it is the LORD your God who goes with you.\""},
   {lie:"I'm not loved.", short:"I am loved by God.", truth:"Nothing can separate me from the love of God in Christ Jesus.", ref:"Rom 8:38–39", text:"Nothing… will be able to separate us from the love of God in Christ Jesus."},
